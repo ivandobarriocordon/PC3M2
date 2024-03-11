@@ -1,0 +1,27 @@
+Buenas tardes ivan, felicidades por haber llegado al CheckPoint 3, te adjunto por aquí lo que debes realizar...
+
+Primeramente debes realizar unos ejercicios prácticos sobre lo aprendido, y luego responder algunas preguntas teóricas, 
+necesito que las respondas con tus propias palabras, agregando ejemplos, buenas prácticas, y todo lo que has aprendido.
+
+Te adjunto el ejercicio practico de Python: https://docs.google.com/document/d/15ZhVM5qK_VkYdGndzCjZSVe5JC6sLmUne45pqgWi3VY/edit?usp=sharing
+
+Además necesito que me crees una cadena que contenga la palabra "Hola". 
+Usando la palabra clave en el método de búsqueda o el índice, busque y seleccione "Hola" en su cadena. Y usando la función de reemplazo, reemplace "Hola" en su cadena con "adiós".
+
+Este ejercicio de Python debes subirlo a tu Git-Hub o Replit para poder revisarlo
+
+Y por último, las preguntas teóricas son:
+
+¿Cuáles son los tipos de Datos en Python?
+
+¿Qué tipo de convención de nomenclatura deberíamos utilizar para las variables en Python?
+
+¿Qué es un Heredoc en Python?
+
+¿Qué es una interpolación de cadenas?
+
+¿Cuándo deberíamos usar comentarios en Python?
+
+¿Cuáles son las diferencias entre aplicaciones monolíticas y de microservicios?
+
+Esta es toda la asignación, ¡mucha suerte!

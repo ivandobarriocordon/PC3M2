@@ -1,0 +1,28 @@
+¿Cuáles son los tipos de Datos en Python?
+String
+Integer
+Float
+List
+Boolean 
+Tuple
+Dictionaries
+Set
+¿Qué tipo de convención de nomenclatura deberíamos utilizar para las variables en Python?
+Hay 2 tipos de nomenclaturas posibles a la hora de denominar a una variable. Una de ellas es poner la letra inicial en Mayuscula de cada palabra de la Variable (MiString) 
+y la otra opción es poner un signo de "_" entre cada palabra de la variable (Mi_String)
+¿Qué es un Heredoc en Python?
+Es una forma de tener un texto que ocupe muchas lineas y para hacer esto la forma correcta es usar comillas triples para que no haya
+ningún error.
+¿Qué es una interpolación de cadenas?
+Es una instruccion en Python la cual te combinar variables y cadenas de texto de forma mas legible. 
+Esto se hace para que puedas insertar valores de variables dentro de una cadena sin tener que concatenar manualmente las diferentes partes.
+¿Cuándo deberíamos usar comentarios en Python?
+Realmente deberiamos usar comentariamos en Python no en exceso pero si cuando no quede claro por el nombre de la variable o por la variable lo que hace realmente esa funcion.
+¿Cuáles son las diferencias entre aplicaciones monolíticas y de microservicios?
+Por un lado las monoliticas suelen ser más rápidas, debido a que no tiene que comunicarse con tantos servicios. 
+Una desventaja que presentan las monolítica es que representan un desafío si no están bien diseñadas esto es debido a que estas aplicaciones tienen fama de acoplar de forma estrecha los procesos, y esto que significa?
+Significa que realizar un solo cambio puede tener un efecto domino y puede causar varios problemas en diferentes partes del código principal
+
+Una significante caracteríctisca de las microservicios es que estas dividen los procesos a diferencia de las mencionadas en el anterior parrafo que reunen todo en un solo proceso. Esto lo que le permite a las microservicios es que
+puede crear varios servicios dentro de la aplicación. Esto permite que cada una puede probarse y desarrolarse de forma individual. Uno de las mayores ventajas de los microservicios es su capacidad de ampliacion ademas de que se 
+puede ampliar componentes individuales en vez de ampliar todo en cojunto.
