@@ -10,7 +10,8 @@ VariableTresPrimerasLetras  = VariableSaludo[:3]
 print(VariableTresPrimerasLetras)
 
 #Ejercicio 3
-print(VariableLista.index("Naia"))
+PrimerElemento = VariableLista[VariableLista.index(VariableLista[0])]
+print(PrimerElemento)
 
 #Ejercicio 4
 VariableNumero  += 10
@@ -18,22 +19,24 @@ VariableNumero  += 10
 print(VariableNumero)
 
 #Ejercicio 5
-print(VariableLista.index("Max"))
+UltimoElemento = VariableLista[VariableLista.index(VariableLista[3])]
+print(UltimoElemento)
 
 #Ejercicio 6
 names = 'harry,alex,susie,jared,gail,conner'
-lista = names.split()
+lista = names.split(',')
 #Comprobación de que está bien
 print(lista)
 
 #Ejercicio 7
-VariablePrimeraLetraDeMiString = VariableSaludo[:1]
+VariablePrimeraPalabraDeMiString = VariableSaludo[:4]
 #Comprobación de que está bien
-print(VariablePrimeraLetraDeMiString)
+print(VariablePrimeraPalabraDeMiString)
 VariableSaludoEnMayusculas = VariableSaludo.upper()
 #Comprobación de que está bien
 print(VariableSaludoEnMayusculas)
-VariableSaludoMayusculasYOriginal = VariableSaludo.upper() + VariableSaludo[1:]
+
+VariableSaludoMayusculasYOriginal = VariableSaludoEnMayusculas + " " +VariableSaludo
 #Comprobación de que está bien
 print(VariableSaludoMayusculasYOriginal)
 
